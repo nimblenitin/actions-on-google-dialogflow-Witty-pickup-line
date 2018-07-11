@@ -12,7 +12,7 @@ in the Dialogflow console, using just a couple intents.
 1. Select *Custom intent*, click *BUILD*. This will open a Dialogflow console. Click *CREATE*.
 1. Click on the gear icon to see the project settings.
 1. Select "Export and Import".
-1. Select "Restore from zip". Follow the directions to restore from the Witty_pickupline.zip in this repo.
+1. Select "Restore from zip". Follow the directions to restore from the Witty_Pickupline.zip in this repo.
 1. On the left navigation menu click on *Intents*.
 1. Click on the make_name intent.
 1. Scroll down to *Responses*, click on *Set this intent as end of conversation*. 
