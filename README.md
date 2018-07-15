@@ -38,3 +38,10 @@ See LICENSE.md.
 ## Terms
 Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the [Terms of Service](https://docs.google.com/document/d/1UACK2gLgfUXLAgFqh1hg8uDscOyODi_jb5iO7_ccKWY/edit?usp=sharing).
 
+## Contributors
+Made by Nitin Naidu with little elves on actions on google.
+
+
+This project follows [Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+
+Note: This is not an officially supported Google product
